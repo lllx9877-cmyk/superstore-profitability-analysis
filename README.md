@@ -161,4 +161,4 @@ In Kaggle, use **Run All** or **Restart Session and Run All**. This ensures impo
 
 ## Author
 
-Your Name — aspiring Data / Business / Financial Analyst
+Xing LIN
