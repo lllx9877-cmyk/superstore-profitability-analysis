@@ -37,7 +37,6 @@ The Power BI report is structured as a management-facing workflow:
 | Management Action Plan | Prioritized and measurable business actions |
 | Customer Deep Dive | Customer-level sales/profit distribution and loss-making customer detail |
 
-Add exported dashboard screenshots to `dashboard/screenshots/` before publishing the repository.
 
 ## Methodology
 
